@@ -161,18 +161,4 @@ Space Complexity
 
 O(n)
 
------------------------------------
-Git Commit Message
------------------------------------
-
-Added memoized DP solution for maximum jumps problem
-
------------------------------------
-Git Push Commands
------------------------------------
-
-git add .
-git commit -m "Added maximum jumps DP solution"
-git push origin main
-
 */
