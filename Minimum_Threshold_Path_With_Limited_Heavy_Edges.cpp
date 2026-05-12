@@ -298,12 +298,5 @@ Git Commit Message
 
 Added binary search + BFS solution for minimum threshold path problem
 
-------------------------------------------------------
-Git Push Commands
-------------------------------------------------------
-
-git add .
-git commit -m "Added minimum threshold BFS binary search solution"
-git push origin main
 
 */
